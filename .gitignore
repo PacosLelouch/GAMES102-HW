@@ -1,0 +1,11 @@
+*.txt
+Projects/*/.vs
+Projects/*/Build
+Projects/*/Binaries
+Projects/*/Plugins/*/Binaries
+Projects/*/DerivedDataCache
+Projects/*/Intermediate
+Projects/*/Plugins/*/Intermediate
+Projects/*/Saved
+Projects/*/*.sln
+Reports/*/~*

@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.24",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GAMES102HW1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CGDemoSettings",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EigenForUE4",
+			"Enabled": true
+		},
+		{
+			"Name": "CGDemoSettings",
+			"Enabled": true
+		}
+	]
+}
