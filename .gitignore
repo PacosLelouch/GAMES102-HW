@@ -8,4 +8,5 @@ Projects/*/Intermediate
 Projects/*/Plugins/*/Intermediate
 Projects/*/Saved
 Projects/*/*.sln
+Projects/*/__pycache__
 Reports/*/~*
