@@ -28,13 +28,13 @@
 - 设置合理的学习率、损失阈值、最大训练迭代次数，可以使网络拟合出高精度的函数。
   与作业 1 的径向基函数比较，省去了自行调整均值、标准差的步骤。
 
-![Fitting1](./Figures/Figure-Fitting1.png)
-![Fitting2](./Figures/Figure-Fitting2.png)
-![Fitting3](./Figures/Figure-Fitting3.png)
+![Fitting1](./Figures/Figure-Fitting1.PNG)
+![Fitting2](./Figures/Figure-Fitting2.PNG)
+![Fitting3](./Figures/Figure-Fitting3.PNG)
 
 - 即使是在有少许噪声的情况下，也不像作业 1 的径向基函数那样无法去噪。
   
-![WithNoise1](./Figures/Figure-WithNoise1.png)
+![WithNoise1](./Figures/Figure-WithNoise1.PNG)
 
 - 不过，因为目前的学习率、损失函数、最大训练迭代次数，以及隐藏层节点数量都是自定义的，所以结果的质量受到经验的影响依然很大。
   期待未来在元学习上的研究进展。
