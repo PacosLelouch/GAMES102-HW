@@ -1,4 +1,4 @@
-# GAMES102 HW2
+# GAMES102 HW3
 
 ## 任务
 
@@ -41,8 +41,6 @@ t_{i+1}-t_{i}=\left\{
 $$
   $\hat{\alpha}_i=\min{(\frac{\pi}{2},\pi-\alpha_i)}$,
   $\alpha_i=angle(\bold{P}_{i-1},\bold{P}_{i},\bold{P}_{i+1})$.
-  
-%\cos{\lt \bold{P}_{i}-\bold{P}_{i-1},\bold{P}_{i+1}-\bold{P}_{i} \gt}
   
   
 ## 代码实现
