@@ -19,7 +19,7 @@
 ### 实现极小曲面的全局方法 
  
 - 利用Cotangent Formula Laplace-Beltrami算子：
-  $\sigma_i=\sum_{j \in N(i)}{w_{ij}*(v_i-v_j)}$
+  $\sigma_i=\sum_{j \in N(i)}{w_{ij}*(v_i-v_j)}$，其中
   $w_{ij}=cot\alpha+cot\beta$
   
   得到每个非边界顶点$v_i$需要满足的方程：
