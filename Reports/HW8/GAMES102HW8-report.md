@@ -23,7 +23,7 @@
 ## 实验方法 
  
 - 使用如步骤所示的Lloyd算法求解Centroidal Voronoi Tessellation.
-  每一步求解Voronoi Diagram时使用了jc_voronoi库（https://github.com/JCash/voronoi）。
+  每一步求解Voronoi Diagram时使用了jc_voronoi库: https://github.com/JCash/voronoi
   
 - 可以尝试在离散流形曲面的参数化平面上求出CVT，然后把参数映射到空间中，以此在流形曲面上生成CVT.
   但是本次实验没有尝试实现该方法，主要原因在于没有想到很好的离散网格的参数到空间的映射求解方法。
